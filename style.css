@@ -117,7 +117,24 @@ section{
     color: white;
 margin: 10px 150px 10px 150px;
 }
-.footer{
-    background: black;
-    width: 100%;
+footer{
+    height: 100px;
+    background: rgb(12, 11, 11);
+}
+
+footer h2{
+    font-family: cursive;
+    text-align: center;
+    
+}
+.gray{
+    color: cornsilk;
+}
+.red{
+    color: rgb(247, 86, 86);
+}
+footer p{
+    color: seashell;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
