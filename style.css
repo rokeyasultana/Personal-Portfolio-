@@ -109,4 +109,15 @@ section{
     margin:-10px -5px ;
     
 }
-
+.background{
+    background: rgb(233, 89, 37);
+    padding: 20px 40px;
+    font-weight: bold;
+    border-radius: 8px;
+    color: white;
+margin: 10px 150px 10px 150px;
+}
+.footer{
+    background: black;
+    width: 100%;
+}
