@@ -96,6 +96,11 @@ section{
     margin: 50px 40px;
 
 }
-.display{
-    display: flex;
+.ancor2{
+    background: rgb(233, 89, 37);
+    padding: 20px 40px;
+    font-weight: bold;
+    border-radius: 8px;
+    color: white;
+    margin:-10px 10px ;
 }
